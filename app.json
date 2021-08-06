@@ -16,11 +16,11 @@
             "description": "Branch in your github repo that Lightdash should sync to. e.g. 'main' or 'dev'",
             "value": "main"
         },
-        "PROJECT_SUB_PATH": {
+        "DBT_PROJECT_SUB_PATH": {
             "description": "Location of your dbt project in the github repo. Only needed if you use a sub-folder for dbt.",
             "value": "/"
         },
-        "PROFILES_SUB_PATH": {
+        "DBT_PROFILES_SUB_PATH": {
             "description": "Location of your dbt profiles folder in the github repo. Only needed if your profiles.yml is in a sub folder of the repo.",
             "value": "/"
         },
