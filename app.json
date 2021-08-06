@@ -9,7 +9,7 @@
         "GITHUB_REPO": {
             "description": "Name of the github repo containing your dbt project, e.g. 'my-org/dbtproject'"
         },
-        "PERSONAL_ACCESS_TOKEN": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": {
             "description": "Personal access token for your github account. See https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token"
         },
         "GITHUB_BRANCH": {
