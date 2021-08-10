@@ -10,7 +10,7 @@
             "description": "Name of the github repo containing your dbt project, e.g. 'my-org/dbtproject'"
         },
         "GITHUB_PERSONAL_ACCESS_TOKEN": {
-            "description": "Personal access token for your github account. See https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token"
+            "description": "Personal access token for your github account with 'Scopes' set to full repo access. See https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token"
         },
         "GITHUB_BRANCH": {
             "description": "Branch in your github repo that Lightdash should sync to. e.g. 'main' or 'dev'",
