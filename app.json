@@ -29,6 +29,10 @@
         "LIGHTDASH_SECRET": {
             "generator": "secret",
             "description": "Unique secret for your heroku deployment to secure user logins"
+        },
+        "DBT_TARGET": {
+            "description": "dbt profile target",
+            "required": false
         }
     },
     "addons": [
