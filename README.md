@@ -1,6 +1,4 @@
-# Deploy Lightdash on heroku
+# This repository is now deprecated
 
-This deploys lightdash ready to connect to a github repository
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+Check our new docs page [Deploy to Heroku](https://docs.lightdash.com/get-started/setup-lightdash/install-lightdash#deploy-to-heroku) for more details.
 
